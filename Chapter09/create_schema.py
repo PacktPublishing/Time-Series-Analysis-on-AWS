@@ -137,4 +137,6 @@ if __name__ == 'main()':
     args = parser.parse_args()
     s3_path = args.s3path
 
-    print(s3_path)
+    schema = create_data_schema_from_s3_path(s3_path)
+    
+    print(schema)
