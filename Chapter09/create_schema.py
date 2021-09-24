@@ -131,7 +131,7 @@ def _create_component_schema(component_name: str, field_names: List):
             
     return component_schema
 
-if __name__ == 'main()':
+if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Generate a JSON schema from an S3 location")
     parser.add_argument("s3path", type=str, help="The root S3 location where the training data are")
     args = parser.parse_args()
