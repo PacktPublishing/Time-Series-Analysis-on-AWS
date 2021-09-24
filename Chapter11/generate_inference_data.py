@@ -8,7 +8,7 @@ def main():
     os.makedirs('inference-data/input', exist_ok=True)
 
     # How many sequences of data we want to extract:
-    num_sequences = 12
+    num_sequences = 3
 
     # The scheduling frequency in minutes: this **MUST** match the
     # resampling rate used to train the model:
@@ -28,7 +28,7 @@ def main():
             inference_df = inference_df.set_index('Timestamp')
 
             # We know that some events of interest are happening after this date:
-            start = pd.to_datetime('2019-06-01 00:00:00')
+            start = pd.to_datetime('2018-12-27 02:05:00')
             for i in range(num_sequences):
                 end = start + datetime.timedelta(minutes=+frequency - 1)
                 inference_input = inference_df.loc[start:end, :]
