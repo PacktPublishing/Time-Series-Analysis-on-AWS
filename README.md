@@ -42,9 +42,9 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  |AWS services covered in the book                  | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | Amazon Forecast                    | Any browser (Chrome recommended) running on Windows, Mac OS X, and Linux (Any) |
-| 2        | Amazon Lookout for Equipment       | Any browser (Chrome recommended) running on Windows, Mac OS X, and Linux (Any) |
-| 3        | Amazon Lookout for Metrics         | Any browser (Chrome recommended) running on Windows, Mac OS X, and Linux (Any) |
+| 1 - 15     | Amazon Forecast                    | Any browser (Chrome recommended) running on Windows, Mac OS X, and Linux (Any) |
+| 1 - 15       | Amazon Lookout for Equipment       | Any browser (Chrome recommended) running on Windows, Mac OS X, and Linux (Any) |
+| 1 - 15        | Amazon Lookout for Metrics         | Any browser (Chrome recommended) running on Windows, Mac OS X, and Linux (Any) |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://static.packt-cdn.com/downloads/9781801816847_ColorImages.pdf).
