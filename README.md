@@ -22,7 +22,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
@@ -41,7 +40,7 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                        |
+| Chapter  |AWS services covered in the book                  | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
 | 1        | Amazon Forecast                    | Any browser (Chrome recommended) running on Windows, Mac OS X, and Linux (Any) |
 | 2        | Amazon Lookout for Equipment       | Any browser (Chrome recommended) running on Windows, Mac OS X, and Linux (Any) |
@@ -50,7 +49,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://static.packt-cdn.com/downloads/9781801816847_ColorImages.pdf).
 
-### Related products <Other books you may enjoy>
+### Related products 
 * Data Engineering with AWS [[Packt]](https://www.packtpub.com/product/data-engineering-with-aws/9781800560413) [[Amazon]](https://www.amazon.com/dp/1800560419)
 
 * Serverless Analytics with Amazon Athena [[Packt]](https://www.packtpub.com/product/serverless-analytics-with-amazon-athena/9781800562349) [[Amazon]](https://www.amazon.com/dp/1800562349)
