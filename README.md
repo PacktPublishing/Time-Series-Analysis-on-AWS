@@ -57,3 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Michaël Hoarau**
 is an AI/ML specialist solutions architect (SA) working at Amazon Web Services (AWS). He is an AWS Certified Associate SA. He previously worked as an AI/ML specialist SA at AWS and the EMEA head of data science at GE Digital. He has experience in building product quality prediction systems for multiple industries. He has used forecasting techniques to build virtual sensors for industrial production lines. He has also helped multiple customers build forecasting and anomaly detection systems to increase their business efficiency.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801816847">https://packt.link/free-ebook/9781801816847 </a> </p>
